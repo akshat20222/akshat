@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ANIMEVERSE</title>
+    <!-- Add your CSS styles or link to an external stylesheet here -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>ANIMEVERSE</h1>
+    </header>
+
+    <section>
+        <h2>Welcome to ANIMEVERSE!</h2>
+        <p>This is your ultimate destination for everything anime. Explore the vast world of anime, discover new
+            series, and connect with fellow anime enthusiasts.</p>
+        <!-- Add more content and features as needed -->
+    </section>
+
+    <footer>
+        <p>&copy; 2024 ANIMEVERSE. All rights reserved.</p>
+    </footer>
+
+</body>
+
+</html>
